@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/24satyam3373/leet-codes/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

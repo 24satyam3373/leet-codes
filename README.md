@@ -42,6 +42,7 @@
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
@@ -62,9 +63,14 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

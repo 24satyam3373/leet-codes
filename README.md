@@ -39,6 +39,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

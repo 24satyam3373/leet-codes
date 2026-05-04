@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/24satyam3373/leet-codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/24satyam3373/leet-codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
@@ -37,8 +38,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/24satyam3373/leet-codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/24satyam3373/leet-codes/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 ## Binary Search

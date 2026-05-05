@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/24satyam3373/leet-codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -63,6 +65,7 @@
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |

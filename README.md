@@ -58,6 +58,7 @@
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
@@ -98,6 +99,7 @@
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |

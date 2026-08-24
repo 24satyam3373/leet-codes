@@ -60,6 +60,7 @@
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 ## Trie
 |  |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/24satyam3373/leet-codes/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->

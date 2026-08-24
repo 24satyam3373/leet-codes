@@ -62,6 +62,7 @@
 | [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 | [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 ## Trie
@@ -122,6 +123,7 @@
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |

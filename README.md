@@ -62,6 +62,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
+| [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 ## Trie
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->

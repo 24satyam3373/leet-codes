@@ -58,6 +58,7 @@
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
+| [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 ## Trie

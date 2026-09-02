@@ -34,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/24satyam3373/leet-codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/24satyam3373/leet-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/24satyam3373/leet-codes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

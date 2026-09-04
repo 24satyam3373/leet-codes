@@ -62,6 +62,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
+| [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

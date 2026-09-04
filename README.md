@@ -10,6 +10,7 @@
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/24satyam3373/leet-codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -22,6 +23,7 @@
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/24satyam3373/leet-codes/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/1143-longest-common-subsequence) |
@@ -95,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |

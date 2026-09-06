@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
@@ -135,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |

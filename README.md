@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/24satyam3373/leet-codes/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -213,4 +215,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

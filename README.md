@@ -83,6 +83,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/24satyam3373/leet-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/24satyam3373/leet-codes/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/24satyam3373/leet-codes/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 ## Trie
 |  |
@@ -220,4 +221,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/24satyam3373/leet-codes/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->

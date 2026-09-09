@@ -80,6 +80,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/24satyam3373/leet-codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |

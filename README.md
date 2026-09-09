@@ -15,6 +15,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/24satyam3373/leet-codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/24satyam3373/leet-codes/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/24satyam3373/leet-codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |

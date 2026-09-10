@@ -11,6 +11,7 @@
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
@@ -194,10 +196,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -233,4 +237,16 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/24satyam3373/leet-codes/tree/master/3904-smallest-stable-index-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

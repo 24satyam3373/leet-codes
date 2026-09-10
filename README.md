@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/24satyam3373/leet-codes/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/24satyam3373/leet-codes/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/24satyam3373/leet-codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -212,6 +214,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/24satyam3373/leet-codes/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |

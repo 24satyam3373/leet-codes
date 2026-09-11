@@ -52,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/24satyam3373/leet-codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/24satyam3373/leet-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/24satyam3373/leet-codes/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/24satyam3373/leet-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/24satyam3373/leet-codes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/24satyam3373/leet-codes/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [4024-nearest-available-drone](https://github.com/24satyam3373/leet-codes/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |

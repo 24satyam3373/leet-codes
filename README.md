@@ -11,6 +11,7 @@
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
@@ -138,6 +139,7 @@
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

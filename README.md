@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/24satyam3373/leet-codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

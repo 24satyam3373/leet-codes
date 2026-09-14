@@ -62,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/24satyam3373/leet-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/24satyam3373/leet-codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -74,6 +75,7 @@
 | [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
@@ -107,6 +109,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |

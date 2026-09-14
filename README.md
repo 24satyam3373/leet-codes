@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
+| [0836-rectangle-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/24satyam3373/leet-codes/tree/master/3099-harshad-number) |
@@ -279,4 +280,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

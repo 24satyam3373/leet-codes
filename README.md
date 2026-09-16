@@ -88,6 +88,7 @@
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/24satyam3373/leet-codes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/24satyam3373/leet-codes/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |

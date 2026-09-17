@@ -22,6 +22,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/24satyam3373/leet-codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/24satyam3373/leet-codes/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/24satyam3373/leet-codes/tree/master/3875-construct-uniform-parity-array-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/24satyam3373/leet-codes/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0011-container-with-most-water](https://github.com/24satyam3373/leet-codes/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/24satyam3373/leet-codes/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
 |  |
 | ------- |

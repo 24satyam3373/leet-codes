@@ -86,6 +86,7 @@
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/24satyam3373/leet-codes/tree/master/0136-single-number) |
@@ -155,6 +156,7 @@
 | [0005-longest-palindromic-substring](https://github.com/24satyam3373/leet-codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/24satyam3373/leet-codes/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |

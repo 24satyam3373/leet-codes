@@ -18,6 +18,7 @@
 | [0836-rectangle-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/24satyam3373/leet-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/24satyam3373/leet-codes/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/24satyam3373/leet-codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/24satyam3373/leet-codes/tree/master/3871-count-commas-in-range-ii) |
@@ -74,6 +75,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
+| [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -113,6 +115,7 @@
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/24satyam3373/leet-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/24satyam3373/leet-codes/tree/master/3875-construct-uniform-parity-array-i) |
@@ -131,6 +134,7 @@
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
+| [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |

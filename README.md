@@ -92,6 +92,7 @@
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/24satyam3373/leet-codes/tree/master/0136-single-number) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/24satyam3373/leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |

@@ -45,6 +45,7 @@
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/24satyam3373/leet-codes/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/1143-longest-common-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/24satyam3373/leet-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/24satyam3373/leet-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/24satyam3373/leet-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |

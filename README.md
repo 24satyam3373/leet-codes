@@ -94,6 +94,7 @@
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
@@ -146,6 +147,7 @@
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/24satyam3373/leet-codes/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0015-3sum](https://github.com/24satyam3373/leet-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -326,4 +329,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

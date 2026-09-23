@@ -94,6 +94,7 @@
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -134,6 +135,7 @@
 | [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/24satyam3373/leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming

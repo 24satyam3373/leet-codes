@@ -35,6 +35,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/24satyam3373/leet-codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
@@ -99,6 +100,7 @@
 | [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
@@ -140,6 +142,7 @@
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
@@ -236,6 +239,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/24satyam3373/leet-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/24satyam3373/leet-codes/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -308,6 +312,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/24satyam3373/leet-codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/24satyam3373/leet-codes/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |

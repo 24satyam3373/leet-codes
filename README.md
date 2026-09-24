@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/24satyam3373/leet-codes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/24satyam3373/leet-codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
@@ -95,6 +96,7 @@
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/24satyam3373/leet-codes/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -136,6 +138,7 @@
 | [0036-valid-sudoku](https://github.com/24satyam3373/leet-codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/24satyam3373/leet-codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |

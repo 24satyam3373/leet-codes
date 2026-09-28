@@ -112,6 +112,7 @@
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/24satyam3373/leet-codes/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
@@ -164,6 +165,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/24satyam3373/leet-codes/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
@@ -178,6 +180,7 @@
 | [0074-search-a-2d-matrix](https://github.com/24satyam3373/leet-codes/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/24satyam3373/leet-codes/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/24satyam3373/leet-codes/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
@@ -352,4 +356,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

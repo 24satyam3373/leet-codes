@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/24satyam3373/leet-codes/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/24satyam3373/leet-codes/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
@@ -316,6 +317,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/24satyam3373/leet-codes/tree/master/0238-product-of-array-except-self) |
 | [3904-smallest-stable-index-ii](https://github.com/24satyam3373/leet-codes/tree/master/3904-smallest-stable-index-ii) |
 ## Primality Test
 |  |

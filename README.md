@@ -114,6 +114,7 @@
 | [0238-product-of-array-except-self](https://github.com/24satyam3373/leet-codes/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
@@ -181,6 +182,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/24satyam3373/leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/24satyam3373/leet-codes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,4 +367,24 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

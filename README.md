@@ -36,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
@@ -163,6 +164,7 @@
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/24satyam3373/leet-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |

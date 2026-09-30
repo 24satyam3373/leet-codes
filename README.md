@@ -41,6 +41,7 @@
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/24satyam3373/leet-codes/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/24satyam3373/leet-codes/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
@@ -170,6 +171,7 @@
 | [0189-rotate-array](https://github.com/24satyam3373/leet-codes/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/24satyam3373/leet-codes/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/24satyam3373/leet-codes/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |

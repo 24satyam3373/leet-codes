@@ -38,6 +38,7 @@
 | [0079-word-search](https://github.com/24satyam3373/leet-codes/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/24satyam3373/leet-codes/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/24satyam3373/leet-codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/24satyam3373/leet-codes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
@@ -79,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/24satyam3373/leet-codes/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/24satyam3373/leet-codes/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/24satyam3373/leet-codes/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
 | [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/24satyam3373/leet-codes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -227,6 +229,7 @@
 | [0018-4sum](https://github.com/24satyam3373/leet-codes/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/24satyam3373/leet-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/24satyam3373/leet-codes/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24satyam3373/leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree

@@ -48,6 +48,7 @@
 | [0556-next-greater-element-iii](https://github.com/24satyam3373/leet-codes/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/24satyam3373/leet-codes/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/24satyam3373/leet-codes/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/24satyam3373/leet-codes/tree/master/1143-longest-common-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/24satyam3373/leet-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -266,6 +267,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/24satyam3373/leet-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0856-score-of-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/24satyam3373/leet-codes/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |

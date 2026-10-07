@@ -124,6 +124,7 @@
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/24satyam3373/leet-codes/tree/master/1046-last-stone-weight) |
@@ -190,6 +191,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,4 +399,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

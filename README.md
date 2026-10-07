@@ -133,6 +133,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/24satyam3373/leet-codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/24satyam3373/leet-codes/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/24satyam3373/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/24satyam3373/leet-codes/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/24satyam3373/leet-codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/24satyam3373/leet-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -194,6 +195,7 @@
 | [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/24satyam3373/leet-codes/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/24satyam3373/leet-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/24satyam3373/leet-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/24satyam3373/leet-codes/tree/master/0409-longest-palindrome) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/24satyam3373/leet-codes/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/24satyam3373/leet-codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/24satyam3373/leet-codes/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack

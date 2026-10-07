@@ -121,6 +121,7 @@
 | [0322-coin-change](https://github.com/24satyam3373/leet-codes/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/24satyam3373/leet-codes/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/24satyam3373/leet-codes/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/24satyam3373/leet-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/24satyam3373/leet-codes/tree/master/0835-image-overlap) |
@@ -191,6 +192,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/24satyam3373/leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/24satyam3373/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/24satyam3373/leet-codes/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/24satyam3373/leet-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/24satyam3373/leet-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
